@@ -1,0 +1,21 @@
+.point-container{
+    width: 200px;
+    background-color: black;
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 10px;
+}
+.point{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin: 8px;
+}
+.point:hover{
+    transition: 0.3s;
+    scale: 1.3;
+    background-color: #fff;
+    border-radius: 30%;
+
+}
