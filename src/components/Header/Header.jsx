@@ -17,7 +17,7 @@ const Header = () => {
                 <li><a href="#">PRODUCT</a></li>
                 <li><a href="#">SOFTWARE</a></li>
                 <li><a href="#">INNOVATION</a></li>
-                <li><a href="#">COMUNITY</a></li>
+                <li><a href="#">COMMUNITY</a></li>
             </ul>
         </div>
         <div className="searchbar">
